@@ -3,7 +3,7 @@ A chrome extension to stop/stop webkul erp task, developed by Webkullians. Webku
 
 STEPS FOR INSTALLATION:
 
-Download this repo.
-Extract it
-Open Chrome, goto settings of Chrome, find "More Tools> Extensions"
-Drag and drop the webkul_erp_ext.crx file onto the Chrome Extensions page(More Tools> Extensions) to install it.
+1. Download this repo.
+2. Extract it
+3. Open Chrome, goto settings of Chrome, find "More Tools> Extensions"
+4. Drag and drop the webkul_erp_ext.crx file onto the Chrome Extensions page(More Tools> Extensions) to install it.
